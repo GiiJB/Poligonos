@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Poligonos {
 
     public static void main(String[] args) {
-         //Criando o objeto leitor do tipo Scanner para receber dados que serão diitados pelo usuário
+         //Criando o objeto leitor do tipo Scanner para receber dados que serão digitados pelo usuário
         Scanner leitor = new Scanner (System.in);
         
         //Declaração de variáveis de entrada
