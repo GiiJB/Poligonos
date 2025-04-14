@@ -18,7 +18,7 @@ public class Poligonos {
         //Declaração de variáveis de processamento
         double area_dbl, semip_dbl, perimetro_dbl;
         
-        System.out.println("Digite quantos lados tem o seu poligono: ");//Solicitação para que o usuário informe a quantidade de lados que seu polígono possui
+        System.out.println("Digite quantos lados tem o seu poligono: ");
         NumLados_int = leitor.nextInt();//A variável irá armazenar o dado que o usuário forneceu
         
             //Estruturas de decisão
